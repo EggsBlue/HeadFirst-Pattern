@@ -11,5 +11,7 @@ public class Test {
 		noWayDuck.display();
 		noWayDuck.flyshow();
 		noWayDuck.quackShow();
+
+
 	}
 }
