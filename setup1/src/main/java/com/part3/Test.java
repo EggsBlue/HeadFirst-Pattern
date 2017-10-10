@@ -9,7 +9,10 @@ public class Test {
 
 		Duck noWayDuck = new NoWayDuck();
 		noWayDuck.display();
+		//ff
+		noWayDuck.flyshow();
+		noWayDuck.quackShow();
 
-		//fff
+
 	}
 }
