@@ -5,12 +5,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.huage</groupId>
-    <artifactId>headfirst</artifactId>
+    <artifactId>HeadFirst-Pattern</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>setup1</module>
+        <module>StrategyPattern</module>
     </modules>
-
+	<dependencies>
+		 <dependency>
+		    <groupId>junit</groupId>
+		    <artifactId>junit</artifactId>
+		    <version>4.12</version>
+		</dependency>
+	</dependencies>
 
 </project>
