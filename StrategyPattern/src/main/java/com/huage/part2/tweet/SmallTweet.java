@@ -1,4 +1,4 @@
-package com.part2.tweet;
+package com.huage.part2.tweet;
 
 public class SmallTweet implements Tweetable {
 

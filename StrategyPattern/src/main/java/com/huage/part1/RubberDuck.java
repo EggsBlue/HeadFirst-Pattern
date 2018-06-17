@@ -1,4 +1,4 @@
-package com.part1;
+package com.huage.part1;
 /**
  * 木头鸭子
  * @author Administrator

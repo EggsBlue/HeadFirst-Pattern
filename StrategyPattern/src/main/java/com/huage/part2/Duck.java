@@ -1,7 +1,7 @@
-package com.part2;
+package com.huage.part2;
 
-import com.part2.fly.Flyable;
-import com.part2.tweet.Tweetable;
+import com.huage.part2.fly.Flyable;
+import com.huage.part2.tweet.Tweetable;
 
 /**
  * 鸭子超类

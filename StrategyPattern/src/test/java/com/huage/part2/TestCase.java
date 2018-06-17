@@ -1,8 +1,7 @@
 package com.huage.part2;
 
-import com.part2.Duck;
-import com.part2.ducks.RedHeadDuck;
-import com.part2.ducks.WoodDuck;
+import com.huage.part2.ducks.RedHeadDuck;
+import com.huage.part2.ducks.WoodDuck;
 import org.junit.Test;
 
 public class TestCase {

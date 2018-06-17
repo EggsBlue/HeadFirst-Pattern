@@ -1,4 +1,4 @@
-package com.part1;
+package com.huage.part1;
 /**
  * 鸭子超类
  */

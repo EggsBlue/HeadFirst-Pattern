@@ -1,7 +1,7 @@
-package com.part1;
-/*
+package com.huage.part2.fly;
+/**
  * 飞行接口
  */
 public interface Flyable {
-	void flay();
+	void fly();
 }

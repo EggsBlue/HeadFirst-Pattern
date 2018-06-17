@@ -1,10 +1,9 @@
-package com.part2.ducks;
+package com.huage.part2.ducks;
 
-import com.part2.Duck;
-import com.part2.fly.FastFlay;
-import com.part2.fly.Flyable;
-import com.part2.tweet.BigTweet;
-import com.part2.tweet.Tweetable;
+import com.huage.part2.Duck;
+import com.huage.part2.fly.FastFlay;
+import com.huage.part2.tweet.BigTweet;
+
 /**
  * 红头鸭子,会快速的飞还会大叫,很强势的鸭子
  */

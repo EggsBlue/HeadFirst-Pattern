@@ -1,10 +1,8 @@
-package com.part2.ducks;
+package com.huage.part2.ducks;
 
-import com.part2.Duck;
-import com.part2.fly.Flyable;
-import com.part2.fly.NoFly;
-import com.part2.tweet.NoTweet;
-import com.part2.tweet.Tweetable;
+import com.huage.part2.Duck;
+import com.huage.part2.fly.NoFly;
+import com.huage.part2.tweet.NoTweet;
 
 /**
  * 木头鸭子,不会飞不会叫的

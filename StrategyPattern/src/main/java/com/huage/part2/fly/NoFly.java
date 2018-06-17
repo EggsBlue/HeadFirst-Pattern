@@ -1,4 +1,4 @@
-package com.part2.fly;
+package com.huage.part2.fly;
 
 public class NoFly implements Flyable{
 
